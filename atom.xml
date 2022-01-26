@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Oscar&#39;s blog</title>
-  
+  <icon>https://www.oscarblogs.ml/icon.png</icon>
   <subtitle>Success is not final, failure is not fatal, it is the courage to continue that counts.</subtitle>
   <link href="https://www.oscarblogs.ml/atom.xml" rel="self"/>
   
   <link href="https://www.oscarblogs.ml/"/>
-  <updated>2021-05-29T16:30:48.000Z</updated>
+  <updated>2022-01-26T11:53:40.000Z</updated>
   <id>https://www.oscarblogs.ml/</id>
   
   <author>
@@ -17,19 +17,43 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>2022新年</title>
+    <link href="https://www.oscarblogs.ml/2022/01/26/2022%E6%96%B0%E5%B9%B4/"/>
+    <id>https://www.oscarblogs.ml/2022/01/26/2022%E6%96%B0%E5%B9%B4/</id>
+    <published>2022-01-26T11:56:45.000Z</published>
+    <updated>2022-01-26T11:53:40.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;又是新一年了呢&quot;&gt;&lt;a href=&quot;#又是新一年了呢&quot; class=&quot;headerlink&quot; title=&quot;又是新一年了呢&quot;&gt;&lt;/a&gt;又是新一年了呢&lt;/h2&gt;&lt;h3 id=&quot;Refresh-my-mark-please&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="life" scheme="https://www.oscarblogs.ml/tags/life/"/>
+    
+  </entry>
+  
+  <entry>
     <title>感到迷茫</title>
     <link href="https://www.oscarblogs.ml/2021/05/22/%E6%84%9F%E5%88%B0%E8%BF%B7%E8%8C%AB/"/>
     <id>https://www.oscarblogs.ml/2021/05/22/%E6%84%9F%E5%88%B0%E8%BF%B7%E8%8C%AB/</id>
     <published>2021-05-22T11:50:00.000Z</published>
-    <updated>2021-05-29T16:30:48.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>就在今天，袁隆平老先生离开人世，睡在了他所心心念念的稻穗禾苗下了。<br>就在今天，吴孟超院士也不能在手术台前医治患者了。<br>/br<br>有些迷茫，<br>学业开始艰难，<br>成绩倒退了很多。<br>看撑不撑得过这个学考了。</p><p>*<em>由于期中考的极差，博客怕是很难更新了。<br>*</em>疯狂复习ing<br>!!!<br>挂在国内的博客：<a href="https://oscarblogs.ml" target="_blank">oscarblog.ml</a>（不常开机，但是延迟很小）<br>挂在国外的：<a href="https://www.oscarblogs.ml" target="_blank">www.oscarblog.ml</a><br>!!!</p>]]></content>
+    <updated>2022-01-26T11:57:34.000Z</updated>
     
     
       
       
+        
+        
     <summary type="html">&lt;p&gt;就在今天，袁隆平老先生离开人世，睡在了他所心心念念的稻穗禾苗下了。&lt;br&gt;就在今天，吴孟超院士也不能在手术台前医治患者了。&lt;br&gt;/br&lt;br&gt;有些迷茫，&lt;br&gt;学业开始艰难，&lt;br&gt;成绩倒退了很多。&lt;br&gt;看撑不撑得过这个学考了。&lt;/p&gt;
 &lt;p&gt;*&lt;em&gt;由于期中考的极差</summary>
+        
       
     
     
@@ -46,13 +70,13 @@
     <published>2021-02-11T01:35:45.000Z</published>
     <updated>2021-02-12T16:15:42.000Z</updated>
     
-    <content type="html"><![CDATA[<p>终于，我还是成功逆袭了。<br>经过复习，我以388的分数，用一个指标生的名额（能加15分）考上了403分的学校（满分460）<br>指标生只能押在一个学校上，这波刚好押满，极限操作。<br>请叫我欧皇 /doge</p><p>一个学期艰难度过，这就是高中吗，爱了爱了。</p><p>假期就只有可怜的二十一天，还剩九天。我还有作业、短篇小说参赛作品没写QAQ<br>哭死……<br>加油加油</p><p>不过后几天还可能去海岸图书馆？看看书，拍拍海景什么的</p><p>*<em>博客怕是很难更新了，这次纯粹是我懒。<br>*</em>疯狂学习ing</p>]]></content>
-    
     
       
       
-    <summary type="html">&lt;p&gt;终于，我还是成功逆袭了。&lt;br&gt;经过复习，我以388的分数，用一个指标生的名额（能加15分）考上了403分的学校（满分460）&lt;br&gt;指标生只能押在一个学校上，这波刚好押满，极限操作。&lt;br&gt;请叫我欧皇 /doge&lt;/p&gt;
-&lt;p&gt;一个学期艰难度过，这就是高中吗，爱了爱了。&lt;</summary>
+        
+        
+    <summary type="html">&lt;p&gt;终于，我还是成功逆袭了。&lt;br&gt;经过复习，我以388的分数，用一个指标生的名额（能加15分）考上了403分的学校（满分460）&lt;br&gt;指标生只能押在一个学校上，这波刚好押满，极限操作。&lt;br&gt;请叫我欧皇</summary>
+        
       
     
     
@@ -69,12 +93,13 @@
     <published>2020-08-21T14:00:00.000Z</published>
     <updated>2021-02-10T14:50:34.000Z</updated>
     
-    <content type="html"><![CDATA[<p>终于，还是考完了。<br>毕业后我和几个同学先是到广州去生活，住民宿（珠江帝景苑真的只是好看的破落小区）一天上千，过于昂贵。<br>我们试着自己做饭，结果发现刀就只有那种腌肉用的三寸小刀。<br>三百多平的房子里有烤箱、工具，就是没有菜刀。<br>…………<br>离谱。</p>]]></content>
-    
     
       
       
+        
+        
     <summary type="html">&lt;p&gt;终于，还是考完了。&lt;br&gt;毕业后我和几个同学先是到广州去生活，住民宿（珠江帝景苑真的只是好看的破落小区）一天上千，过于昂贵。&lt;br&gt;我们试着自己做饭，结果发现刀就只有那种腌肉用的三寸小刀。&lt;br&gt;三百多平的房子里有烤箱、工具，就是没有菜刀。&lt;br&gt;…………&lt;br&gt;离谱。&lt;/</summary>
+        
       
     
     
@@ -91,14 +116,15 @@
     <published>2020-07-10T11:06:09.000Z</published>
     <updated>2020-07-10T11:21:02.000Z</updated>
     
-    <content type="html"><![CDATA[<p>**在一片喧嚣、热闹的教室里，我是苦恼的。</p><p>**既不想在最后时段去打好人际关系，也不愿面对那几本试卷，没日没夜地做试卷，然后靠刷手机是真的枯燥。<br>这有点像一点点掏空充实多彩的精神世界，就拿把火烧毁华华丽丽外壳，只剩下千篇一律的、单调的余烬。</p><p>以前还能说我去外面逛逛，拿手机相机拍人拍景之类的，又或者是去线下的lolita茶会见小姐姐之类的</p><p>#不会真的没有雄性生物参加过茶会吧</p><p>不管了，距离大考就只剩十天了，按憨憨的话说：“屈指可数。”<br>志愿填完了就去复习喽。</p>]]></content>
-    
     
       
       
+        
+        
     <summary type="html">&lt;p&gt;**在一片喧嚣、热闹的教室里，我是苦恼的。&lt;/p&gt;
 &lt;p&gt;**既不想在最后时段去打好人际关系，也不愿面对那几本试卷，没日没夜地做试卷，然后靠刷手机是真的枯燥。&lt;br&gt;这有点像一点点掏空充实多彩的精神世界，就拿把火烧毁华华丽丽外壳，只剩下千篇一律的、单调的余烬。&lt;/p&gt;
 &lt;p</summary>
+        
       
     
     
@@ -115,14 +141,15 @@
     <published>2020-06-24T13:19:09.000Z</published>
     <updated>2020-06-24T13:04:54.000Z</updated>
     
-    <content type="html"><![CDATA[<p>终于到了大考倒数第20天，后天就要去听说考试了。<br>体育不出所料，没有满分，但也比模拟高了4分左右。</p><p>有时候复习三年知识起来挺迷茫的。<br>我是该回到原来的方式学习，还是继续这种刷题式复习？<br>交给考试结果来决定吧。</p>]]></content>
-    
     
       
       
+        
+        
     <summary type="html">&lt;p&gt;终于到了大考倒数第20天，后天就要去听说考试了。&lt;br&gt;体育不出所料，没有满分，但也比模拟高了4分左右。&lt;/p&gt;
 &lt;p&gt;有时候复习三年知识起来挺迷茫的。&lt;br&gt;我是该回到原来的方式学习，还是继续这种刷题式复习？&lt;br&gt;交给考试结果来决定吧。&lt;/p&gt;
 </summary>
+        
       
     
     
@@ -139,15 +166,16 @@
     <published>2020-06-08T11:40:00.000Z</published>
     <updated>2020-06-10T15:01:24.000Z</updated>
     
-    <content type="html"><![CDATA[<p>憨憨（我们老班）在大考前很励志的说了几句奇句：</p><p><strong>你们不能看到自己成绩多差，就放弃学了啊！</strong>（过于真实）</p><p><strong>想想你们喊作业多的时候，作业多不要抱怨。</strong></p><p><strong>要接受，并为此付出努力！</strong>（这句用老班的语气说出来绝对是经典）</p><p><strong>今天你三观正了吗？</strong></p><p>总之就是类似这样的句子等云云。</p><p>已经被我们班传颂至全年级了（迫真<br><br/><br>老班放飞自我ing：<br><a href="https://www.picb.cc/image/tI7HsD" target="_blank" rel="noopener"><img src="https://t1.picb.cc/uploads/2020/06/10/tI7HsD.jpg" alt="tI7HsD.jpg" border="0"></a></p>]]></content>
-    
     
       
       
+        
+        
     <summary type="html">&lt;p&gt;憨憨（我们老班）在大考前很励志的说了几句奇句：&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;你们不能看到自己成绩多差，就放弃学了啊！&lt;/strong&gt;（过于真实）&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;想想你们喊作业多的时候，作业多不要抱怨。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;要接</summary>
+        
       
     
     
@@ -162,14 +190,15 @@
     <link href="https://www.oscarblogs.ml/2020/06/06/%E8%80%83%E8%AF%95%E4%BA%86/"/>
     <id>https://www.oscarblogs.ml/2020/06/06/%E8%80%83%E8%AF%95%E4%BA%86/</id>
     <published>2020-06-06T01:19:00.000Z</published>
-    <updated>2020-06-06T05:04:44.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>要考试了啊啊啊！<br>*<em>由于期中考的极差，博客怕是很难更新了。<br>*</em>疯狂复习ing<br>!!!<br>挂在国内的博客：<a href="https://oscarblog.ml" target="_blank">oscarblog.ml</a>（不常开机，但是延迟很小）<br>挂在国外的：<a href="https://www.oscarblog.ml" target="_blank">www.oscarblog.ml</a><br>!!!</p>]]></content>
+    <updated>2022-01-26T12:24:06.000Z</updated>
     
     
       
       
-    <summary type="html">&lt;p&gt;要考试了啊啊啊！&lt;br&gt;*&lt;em&gt;由于期中考的极差，博客怕是很难更新了。&lt;br&gt;*&lt;/em&gt;疯狂复习ing&lt;br&gt;!!!&lt;br&gt;挂在国内的博客：&lt;a href=&quot;https://oscarblog.ml&quot; target=&quot;_blank&quot;&gt;oscarblog.ml&lt;/a&gt;（不</summary>
+        
+        
+    <summary type="html">&lt;p&gt;要考试了啊啊啊！&lt;br&gt;*&lt;em&gt;由于期中考的极差，博客怕是很难更新了。&lt;br&gt;*&lt;/em&gt;疯狂复习ing&lt;br&gt;!!!&lt;br&gt;挂在国内的博客：&lt;a href=&quot;https://oscareblogs.ml&quot;</summary>
+        
       
     
     
@@ -186,16 +215,15 @@
     <published>2020-05-22T14:54:00.000Z</published>
     <updated>2020-05-22T14:59:30.000Z</updated>
     
-    <content type="html"><![CDATA[<p><em>本博客起点。</em><br><strong>Here we start！</strong></p><pre><code>@echoshutdown -s -t 1end</code></pre><hr><p>:)开个玩笑，咳咳咳。<br>这里是Oscar的博客，搭建博客真的比我想象中复杂很多（谁叫你拿自家电脑做服务器，还同时塞两个站点进去）<br>不过还是艰难地成功建好了，不过不知道之后域名被DNS商那边解析以后还要不要做一遍博客QAQ<br>这个博客的界面我一定会美化好的（立起大大的flag）</p><blockquote><p>想一想还是好的嘛，万一实现了呢</p></blockquote><p>（那也得等全市考完，被骂死以后了……）</p>]]></content>
-    
     
       
       
+        
+        
     <summary type="html">&lt;p&gt;&lt;em&gt;本博客起点。&lt;/em&gt;&lt;br&gt;&lt;strong&gt;Here we start！&lt;/strong&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;@echo
-shutdown -s -t 1
-end&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
-&lt;p&gt;:)开个玩笑，咳咳咳。&lt;br&gt;这里是Oscar的</summary>
+shutdown -s -t</summary>
+        
       
     
     
@@ -212,12 +240,13 @@ end&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
     <published>2020-05-22T13:27:39.570Z</published>
     <updated>2020-05-22T13:27:40.000Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-    
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.</summary>
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a</summary>
+        
       
     
     
@@ -232,11 +261,11 @@ end&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
     <published>2019-05-30T09:10:00.000Z</published>
     <updated>2020-06-10T14:39:12.000Z</updated>
     
-    <content type="html"><![CDATA[<p>本人确信自己不是标题党，尽管标题有明显特征……<br><br/></p><hr><br/>老实说这是我的黑历史，真的。<br/>初一初二特别爱出入各大mall，那里消费动辄几百上千，上不封顶。（我个穷苦小孩是怎么两年在里面玩的很开心的？？？）<br/>大多是应同学好友邀请，剩余都是路过时进去看看的。<br/>我自己在购物中心里也有夸张的消费。<br/>尤其是初二，粗略地算了算，这三百多天的日子里自己光是吃就花了十万多，主要是因为那一学期结交了一个死党（很豪但是不土），看我不敢去高档场所就约我一起去，给我钱去付款。（表面上AA，实际绝大部分都是他出的）<br/>还有的原因是他们家是独生子女家庭，没人陪着去玩挺孤单的。<br/>记录一下当时去吃的画面：<br/><a href="https://www.picb.cc/image/tIqclG" target="_blank" rel="noopener"><img src="https://t1.picb.cc/uploads/2020/06/10/tIqclG.jpg" alt="tIqclG.jpg" border="0"></a><br/>为什么说不土呢？因为人家懂生活啊，你见过给你做过饭吃的死党吗？<br/><a href="https://www.picb.cc/image/tIqNMr" target="_blank" rel="noopener"><img src="https://t1.picb.cc/uploads/2020/06/10/tIqNMr.jpg" alt="tIqNMr.jpg" border="0"></a><br/><br/><br/>然后在回归原话题，正是因为出去玩，年少的我学会了喝酒……<br/>起因是两个同学约我去购物，中午在麦当劳吃饭，随后她俩就去下面71便利店买了三瓶啤酒。<br/>就是酱紫的：<br/><a href="https://www.picb.cc/image/tIqpjd" target="_blank" rel="noopener"><img src="https://t1.picb.cc/uploads/2020/06/10/tIqpjd.jpg" alt="tIqpjd.jpg" border="0"></a><br/>还好我们都不会太过火，就只是一点点慢慢喝。<br/>（真正过火的在新年家族聚会上，几十号亲戚，自己逞能在1分钟内往嘴里灌了一开水壶的红酒后，当晚硬是没吐，就……再没敢碰过酒。）<br/>话说自己想下次做个美食合集，看看我这几年都吃了什么 /doge（狗头防打<br/>时不时发面前美食迫害班里吃货+1]]></content>
-    
     
       
       
+        
+        
     <summary type="html">&lt;p&gt;本人确信自己不是标题党，尽管标题有明显特征……&lt;br&gt;&lt;br/&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;br/&gt;
@@ -245,6 +274,7 @@ end&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
 初一初二特别爱出入各大mall，那里消费动辄几百上千，上不封顶。（我个穷苦小孩是怎么两年在里面玩的很开心的？？？）
 &lt;br/&gt;
 大多是应</summary>
+        
       
     
     
