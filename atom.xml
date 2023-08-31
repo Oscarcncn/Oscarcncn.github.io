@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Oscar&#39;s blog</title>
-  <icon>https://www.oscareblogs.ml/icon.png</icon>
+  <icon>https://dowty.rr.nu/icon.png</icon>
   <subtitle>Success is not final, failure is not fatal, it is the courage to continue that counts.</subtitle>
-  <link href="https://www.oscareblogs.ml/atom.xml" rel="self"/>
+  <link href="https://dowty.rr.nu/atom.xml" rel="self"/>
   
-  <link href="https://www.oscareblogs.ml/"/>
+  <link href="https://dowty.rr.nu/"/>
   <updated>2022-01-26T11:53:40.000Z</updated>
-  <id>https://www.oscareblogs.ml/</id>
+  <id>https://dowty.rr.nu/</id>
   
   <author>
     <name>Oscar Trust</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>2022新年</title>
-    <link href="https://www.oscareblogs.ml/2022/01/26/2022%E6%96%B0%E5%B9%B4/"/>
-    <id>https://www.oscareblogs.ml/2022/01/26/2022%E6%96%B0%E5%B9%B4/</id>
+    <link href="https://dowty.rr.nu/2022/01/26/2022%E6%96%B0%E5%B9%B4/"/>
+    <id>https://dowty.rr.nu/2022/01/26/2022%E6%96%B0%E5%B9%B4/</id>
     <published>2022-01-26T11:56:45.000Z</published>
     <updated>2022-01-26T11:53:40.000Z</updated>
     
@@ -35,14 +35,14 @@
     
     
     
-    <category term="life" scheme="https://www.oscareblogs.ml/tags/life/"/>
+    <category term="life" scheme="https://dowty.rr.nu/tags/life/"/>
     
   </entry>
   
   <entry>
     <title>感到迷茫</title>
-    <link href="https://www.oscareblogs.ml/2021/05/22/%E6%84%9F%E5%88%B0%E8%BF%B7%E8%8C%AB/"/>
-    <id>https://www.oscareblogs.ml/2021/05/22/%E6%84%9F%E5%88%B0%E8%BF%B7%E8%8C%AB/</id>
+    <link href="https://dowty.rr.nu/2021/05/22/%E6%84%9F%E5%88%B0%E8%BF%B7%E8%8C%AB/"/>
+    <id>https://dowty.rr.nu/2021/05/22/%E6%84%9F%E5%88%B0%E8%BF%B7%E8%8C%AB/</id>
     <published>2021-05-22T11:50:00.000Z</published>
     <updated>2022-01-26T11:57:34.000Z</updated>
     
@@ -59,14 +59,14 @@
     
     
     
-    <category term="life" scheme="https://www.oscareblogs.ml/tags/life/"/>
+    <category term="life" scheme="https://dowty.rr.nu/tags/life/"/>
     
   </entry>
   
   <entry>
     <title>2021新年</title>
-    <link href="https://www.oscareblogs.ml/2021/02/11/2021%E6%96%B0%E5%B9%B4/"/>
-    <id>https://www.oscareblogs.ml/2021/02/11/2021%E6%96%B0%E5%B9%B4/</id>
+    <link href="https://dowty.rr.nu/2021/02/11/2021%E6%96%B0%E5%B9%B4/"/>
+    <id>https://dowty.rr.nu/2021/02/11/2021%E6%96%B0%E5%B9%B4/</id>
     <published>2021-02-11T01:35:45.000Z</published>
     <updated>2021-02-12T16:15:42.000Z</updated>
     
@@ -82,14 +82,14 @@
     
     
     
-    <category term="life" scheme="https://www.oscareblogs.ml/tags/life/"/>
+    <category term="life" scheme="https://dowty.rr.nu/tags/life/"/>
     
   </entry>
   
   <entry>
     <title>假期再见</title>
-    <link href="https://www.oscareblogs.ml/2020/08/21/%E5%81%87%E6%9C%9F%E5%86%8D%E8%A7%81/"/>
-    <id>https://www.oscareblogs.ml/2020/08/21/%E5%81%87%E6%9C%9F%E5%86%8D%E8%A7%81/</id>
+    <link href="https://dowty.rr.nu/2020/08/21/%E5%81%87%E6%9C%9F%E5%86%8D%E8%A7%81/"/>
+    <id>https://dowty.rr.nu/2020/08/21/%E5%81%87%E6%9C%9F%E5%86%8D%E8%A7%81/</id>
     <published>2020-08-21T14:00:00.000Z</published>
     <updated>2021-02-10T14:50:34.000Z</updated>
     
@@ -105,14 +105,14 @@
     
     
     
-    <category term="school" scheme="https://www.oscareblogs.ml/tags/school/"/>
+    <category term="school" scheme="https://dowty.rr.nu/tags/school/"/>
     
   </entry>
   
   <entry>
     <title>倒数10天</title>
-    <link href="https://www.oscareblogs.ml/2020/07/10/%E5%80%92%E6%95%B010%E5%A4%A9/"/>
-    <id>https://www.oscareblogs.ml/2020/07/10/%E5%80%92%E6%95%B010%E5%A4%A9/</id>
+    <link href="https://dowty.rr.nu/2020/07/10/%E5%80%92%E6%95%B010%E5%A4%A9/"/>
+    <id>https://dowty.rr.nu/2020/07/10/%E5%80%92%E6%95%B010%E5%A4%A9/</id>
     <published>2020-07-10T11:06:09.000Z</published>
     <updated>2020-07-10T11:21:02.000Z</updated>
     
@@ -130,14 +130,14 @@
     
     
     
-    <category term="life" scheme="https://www.oscareblogs.ml/tags/life/"/>
+    <category term="life" scheme="https://dowty.rr.nu/tags/life/"/>
     
   </entry>
   
   <entry>
     <title>倒数20天</title>
-    <link href="https://www.oscareblogs.ml/2020/06/24/%E5%80%92%E6%95%B020%E5%A4%A9/"/>
-    <id>https://www.oscareblogs.ml/2020/06/24/%E5%80%92%E6%95%B020%E5%A4%A9/</id>
+    <link href="https://dowty.rr.nu/2020/06/24/%E5%80%92%E6%95%B020%E5%A4%A9/"/>
+    <id>https://dowty.rr.nu/2020/06/24/%E5%80%92%E6%95%B020%E5%A4%A9/</id>
     <published>2020-06-24T13:19:09.000Z</published>
     <updated>2020-06-24T13:04:54.000Z</updated>
     
@@ -155,14 +155,14 @@
     
     
     
-    <category term="life" scheme="https://www.oscareblogs.ml/tags/life/"/>
+    <category term="life" scheme="https://dowty.rr.nu/tags/life/"/>
     
   </entry>
   
   <entry>
     <title>励志的梗</title>
-    <link href="https://www.oscareblogs.ml/2020/06/08/%E5%8A%B1%E5%BF%97%E7%9A%84%E6%A2%97/"/>
-    <id>https://www.oscareblogs.ml/2020/06/08/%E5%8A%B1%E5%BF%97%E7%9A%84%E6%A2%97/</id>
+    <link href="https://dowty.rr.nu/2020/06/08/%E5%8A%B1%E5%BF%97%E7%9A%84%E6%A2%97/"/>
+    <id>https://dowty.rr.nu/2020/06/08/%E5%8A%B1%E5%BF%97%E7%9A%84%E6%A2%97/</id>
     <published>2020-06-08T11:40:00.000Z</published>
     <updated>2020-06-10T15:01:24.000Z</updated>
     
@@ -181,14 +181,14 @@
     
     
     
-    <category term="school" scheme="https://www.oscareblogs.ml/tags/school/"/>
+    <category term="school" scheme="https://dowty.rr.nu/tags/school/"/>
     
   </entry>
   
   <entry>
     <title>考试了</title>
-    <link href="https://www.oscareblogs.ml/2020/06/06/%E8%80%83%E8%AF%95%E4%BA%86/"/>
-    <id>https://www.oscareblogs.ml/2020/06/06/%E8%80%83%E8%AF%95%E4%BA%86/</id>
+    <link href="https://dowty.rr.nu/2020/06/06/%E8%80%83%E8%AF%95%E4%BA%86/"/>
+    <id>https://dowty.rr.nu/2020/06/06/%E8%80%83%E8%AF%95%E4%BA%86/</id>
     <published>2020-06-06T01:19:00.000Z</published>
     <updated>2022-01-26T12:24:06.000Z</updated>
     
@@ -204,14 +204,14 @@
     
     
     
-    <category term="life" scheme="https://www.oscareblogs.ml/tags/life/"/>
+    <category term="life" scheme="https://dowty.rr.nu/tags/life/"/>
     
   </entry>
   
   <entry>
     <title>test</title>
-    <link href="https://www.oscareblogs.ml/2020/05/22/test/"/>
-    <id>https://www.oscareblogs.ml/2020/05/22/test/</id>
+    <link href="https://dowty.rr.nu/2020/05/22/test/"/>
+    <id>https://dowty.rr.nu/2020/05/22/test/</id>
     <published>2020-05-22T14:54:00.000Z</published>
     <updated>2020-05-22T14:59:30.000Z</updated>
     
@@ -229,14 +229,14 @@ shutdown -s -t</summary>
     
     
     
-    <category term="start" scheme="https://www.oscareblogs.ml/tags/start/"/>
+    <category term="start" scheme="https://dowty.rr.nu/tags/start/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://www.oscareblogs.ml/2020/05/22/hello-world/"/>
-    <id>https://www.oscareblogs.ml/2020/05/22/hello-world/</id>
+    <link href="https://dowty.rr.nu/2020/05/22/hello-world/"/>
+    <id>https://dowty.rr.nu/2020/05/22/hello-world/</id>
     <published>2020-05-22T13:27:39.570Z</published>
     <updated>2020-05-22T13:27:40.000Z</updated>
     
@@ -256,8 +256,8 @@ shutdown -s -t</summary>
   
   <entry>
     <title>（补）震惊！某初二学生的初中生活竟如此……！</title>
-    <link href="https://www.oscareblogs.ml/2019/05/30/%EF%BC%88%E8%A1%A5%EF%BC%89%E9%9C%87%E6%83%8A%EF%BC%81%E6%9F%90%E5%88%9D%E4%BA%8C%E5%AD%A6%E7%94%9F%E7%9A%84%E5%88%9D%E4%B8%AD%E7%94%9F%E6%B4%BB%E7%AB%9F%E5%A6%82%E6%AD%A4%EF%BC%81/"/>
-    <id>https://www.oscareblogs.ml/2019/05/30/%EF%BC%88%E8%A1%A5%EF%BC%89%E9%9C%87%E6%83%8A%EF%BC%81%E6%9F%90%E5%88%9D%E4%BA%8C%E5%AD%A6%E7%94%9F%E7%9A%84%E5%88%9D%E4%B8%AD%E7%94%9F%E6%B4%BB%E7%AB%9F%E5%A6%82%E6%AD%A4%EF%BC%81/</id>
+    <link href="https://dowty.rr.nu/2019/05/30/%EF%BC%88%E8%A1%A5%EF%BC%89%E9%9C%87%E6%83%8A%EF%BC%81%E6%9F%90%E5%88%9D%E4%BA%8C%E5%AD%A6%E7%94%9F%E7%9A%84%E5%88%9D%E4%B8%AD%E7%94%9F%E6%B4%BB%E7%AB%9F%E5%A6%82%E6%AD%A4%EF%BC%81/"/>
+    <id>https://dowty.rr.nu/2019/05/30/%EF%BC%88%E8%A1%A5%EF%BC%89%E9%9C%87%E6%83%8A%EF%BC%81%E6%9F%90%E5%88%9D%E4%BA%8C%E5%AD%A6%E7%94%9F%E7%9A%84%E5%88%9D%E4%B8%AD%E7%94%9F%E6%B4%BB%E7%AB%9F%E5%A6%82%E6%AD%A4%EF%BC%81/</id>
     <published>2019-05-30T09:10:00.000Z</published>
     <updated>2020-06-10T14:39:12.000Z</updated>
     
@@ -280,7 +280,7 @@ shutdown -s -t</summary>
     
     
     
-    <category term="life" scheme="https://www.oscareblogs.ml/tags/life/"/>
+    <category term="life" scheme="https://dowty.rr.nu/tags/life/"/>
     
   </entry>
   
